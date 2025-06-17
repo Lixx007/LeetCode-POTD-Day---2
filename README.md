@@ -1,6 +1,14 @@
-# 3405. Count the Number of Arrays with K Matching Adjacent Elements
+<table>
+<tr>
+<td align="left" width="400">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VOQU8CuPG34Gsd1yJCadOQ.png" width="100%"/>
+</td>
+</tr>
+</table>
 
-<img src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*VOQU8CuPG34Gsd1yJCadOQ.png" width="500"/>
+# 🚀 LeetCode POTD - Day 2
+
+# 3405. Count the Number of Arrays with K Matching Adjacent Elements
 
 ## ✅ C++ Code
 
